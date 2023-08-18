@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @rhazeswrs
-- 👀 I’m interested in Business
-- 🌱 I’m currently learning dont know
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me at ig rhazesw
+# Halo semua! 
 
-<!---
-rhazeswrs/rhazeswrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Perkenalkan nama saya **Rhazes Wahyu**.
+
+Saya seorang **mahasiswa** di [UGM](https://ugm.ac.id/id//).
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rhazeswahyu/) ku ya.

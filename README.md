@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Rhazes Wahyu**.
+Perkenalkan nama saya **Rhazes Setiawan**.
 
 Saya seorang **mahasiswa** di [UGM](https://ugm.ac.id/id//).
 
